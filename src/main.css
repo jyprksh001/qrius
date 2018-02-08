@@ -1,0 +1,120 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.w30{
+  width: 17%;
+}
+.left-nav{
+  border-right: 1px solid;
+  height: 100vh;
+  float: left;
+  padding: 30px;
+  background: linear-gradient(0deg, #46a984, #467786);
+}
+.logo{
+  margin: 30px;
+}
+.logo span{
+  position: relative;
+  left: 10px;
+  top: -7px;
+  color: white;
+}
+.right-nav{
+  float: left;
+  width: 76%;
+}
+.right-nav .search{
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid;
+  height: 30px;
+}
+.board{
+  text-align: center;
+  height: 40px;
+  border-bottom: 1px solid;
+}
+.pad15{
+  padding: 15px;
+}
+.bbtn{
+  background: orange;
+  width: 15%;
+  float: left;
+}
+.date{
+  width: 70%; 
+  float: left;
+  text-align: center;
+}
+.download{
+  width: 15%;
+  float: left;
+}
+table{
+  width: 48%;
+  float: left;
+  border: 1px solid;
+  padding: 10px
+}
+table th{
+  text-align: left;
+}
+table td{
+  border-bottom: 1px solid;
+  padding-bottom: 2px;
+}
+.right-div{
+  border: 1px solid;
+  padding: 15px;
+  float: left;
+  width: 45%;
+  margin-left: 20px;
+}
+.w100{
+  width: 60%;
+  display: block;
+  margin: 0 auto;
+}
+.ms{
+  margin-top: 50px;
+  font-size: 60px;
+  text-align: center;
+  font-family: sans-serif;
+}
+.center{
+  text-align: center;
+}
+.list{
+  margin-top: 100px;
+}
+.list li{
+  list-style-type: none;
+}

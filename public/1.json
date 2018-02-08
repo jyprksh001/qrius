@@ -1,0 +1,13 @@
+{
+	"active":[
+		{"name":"abc","open":"20%","click":"30%"},
+		{"name":"abc1","open":"20%","click":"30%"},
+		{"name":"abc2","open":"20%","click":"30%"},
+		{"name":"abc3","open":"20%","click":"30%"},
+		{"name":"abc4","open":"20%","click":"30%"}
+	],
+	"paused":[
+		{"name":"abc5","open":"20%","click":"30%"},
+		{"name":"abc6","open":"20%","click":"30%"}
+	]
+}
